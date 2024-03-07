@@ -23,3 +23,7 @@ A Power BI designer
 5. shares the reports, dashboards or content bundled in an app with business users
 
 ![image](https://learn.microsoft.com/en-us/power-bi/consumer/media/end-user-basic-concepts/power-bi-workflows.png)
+
+
+# Caveats
+- no realtime: 8 refreshes daily. If the semantic model resides on a Premium capacity, it can schedule up to 48 refreshes per day
