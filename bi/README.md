@@ -26,4 +26,5 @@ A Power BI designer
 
 
 # Caveats
-- no realtime: 8 refreshes daily. If the semantic model resides on a Premium capacity, it can schedule up to 48 refreshes per day
+- 8 refreshes daily for Shared capacities. If Premium capacity, it can schedule up to 48 refreshes per day
+  - including refreshes executed by using scheduled refresh or refresh now
