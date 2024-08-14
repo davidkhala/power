@@ -25,6 +25,5 @@ A Power BI designer
 ![image](https://learn.microsoft.com/en-us/power-bi/consumer/media/end-user-basic-concepts/power-bi-workflows.png)
 
 
-# Caveats
-- 8 refreshes daily for Shared capacities. If Premium capacity, it can schedule up to 48 refreshes per day
-  - including refreshes executed by using scheduled refresh or refresh now
+
+
