@@ -1,5 +1,3 @@
 Manual trigger: Home\Queries\Refresh
 
-# Scheduled 
-
-# Change Detection
+Published Sematic Model can have *Refresh frequency* set to 15 minutes
