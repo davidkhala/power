@@ -2,7 +2,7 @@
 
 [Using customized SQL Query](https://learn.microsoft.com/en-us/azure/databricks/partners/bi/power-bi#using-a-custom-sql-query)
 # DAX
-使用DAX和M语言来编写计算，需要一起学习成本
+使用DAX和M语言来编写计算，需要额外学习成本
 
 # Power Query
 用于清洗和整理数据
