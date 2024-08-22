@@ -4,6 +4,7 @@
 # in-app lineage
 This is a view option of your workspace (compared to List View)
 - https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-data-lineage
+- [data lineage in Microsoft Purview for Power BI](https://learn.microsoft.com/en-us/purview/how-to-lineage-powerbi)
 
 ## BYO
 [Report API](https://learn.microsoft.com/en-us/rest/api/power-bi/admin/reports-get-reports-as-admin)
