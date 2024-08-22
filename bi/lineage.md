@@ -5,3 +5,6 @@
 This is a view option of your workspace (compared to List View)
 - https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-data-lineage
 
+## BYO
+[Report API](https://learn.microsoft.com/en-us/rest/api/power-bi/admin/reports-get-reports-as-admin)
+
