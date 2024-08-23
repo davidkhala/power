@@ -1,5 +1,5 @@
 # Power BI
-
+Now that Power BI is one of many experiences in [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
 # workspace
 created by Power BI designer
 
