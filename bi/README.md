@@ -1,5 +1,6 @@
 # Power BI
-Now Power BI is part of [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
+Now Power BI is part of [Microsoft Fabric](https://github.com/davidkhala/Microsoft/tree/main/fabric)
+
 # workspace
 created by Power BI designer
 
