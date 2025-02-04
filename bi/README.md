@@ -1,6 +1,7 @@
 # Power BI
 Now Power BI is part of [Microsoft Fabric](https://github.com/davidkhala/Microsoft/tree/main/fabric)
 
+[Power BI Embedded Playground](https://playground.powerbi.com/en-us/)
 # workspace
 created by Power BI designer
 
