@@ -1,8 +1,5 @@
 # XMLA Read/Write
-> Admin portal > Capacity settings
-## on capacity= `Power BI Premium` or 
-1. Expand Workloads.
-2. In the `XMLA Endpoint setting`, select `Read Write`
-
-## on `Fabric Capacity`
-TODO not ready
+1. > Admin portal > Capacity settings
+2. On capacity = `Power BI Premium` or `Fabric Capacity`
+3. Expand **Workloads** or **Power BI workloads**
+4. Dropdown `XMLA Endpoint`, select `Read Write`
