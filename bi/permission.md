@@ -5,3 +5,4 @@
 2. In the `XMLA Endpoint setting`, select `Read Write`
 
 ## on `Fabric Capacity`
+TODO not ready
