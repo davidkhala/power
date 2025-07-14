@@ -3,3 +3,4 @@
 - Power Apps
 - Power BI
 - Power Automate
+- [Copilot Studio](https://github.com/davidkhala/Microsoft/wiki/Copilot#copilot-studio)
